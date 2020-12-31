@@ -1,0 +1,52 @@
+baseURL = "https://tuck1s.github.io/stepuptutors-co-uk/"
+languageCode = "en-uk"
+title = "Step Up Tutors"
+author = "Steve Tuck"
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+enableRobotsTXT = true
+Paginate = 12
+copyright = "Step Up Tutors"
+
+theme = "github.com/theNewDynamic/gohugo-theme-ananke"
+
+[indexes]
+  tag = "tags"
+  topic = "topics"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    pre = "<i class='fa fa-home fa-fw'></i>"
+    weight = 1
+    url = "/"
+
+  [[menu.main]]
+    name = "Your First Session"
+    pre = "<i class='fa fa-home fa-fw'></i>"
+    weight = 2
+    url = "/your-first-session"
+
+  [[menu.main]]
+    name = "Specific Learning Difficulties"
+    pre = "<i class='fa fa-home fa-fw'></i>"
+    weight = 3
+    url = "/specific-learning-difficulties"
+
+  [[menu.main]]
+    name = "Teaching Approaches"
+    pre = "<i class='fa fa-home fa-fw'></i>"
+    weight = 4
+    url = "/teaching-approaches"
+
+  [[menu.main]]
+    name = "KS2 SATs"
+    pre = "<i class='fa fa-home fa-fw'></i>"
+    weight = 5
+    url = "/ks2-sats"
+
+[params]
+  featured_image = "/iStock_000006456892_Small.jpg"
+  favicon = "/favicon.ico"
+  background_color_class = "bg-green"
+  recent_posts_number = 0
