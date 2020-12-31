@@ -5,10 +5,9 @@ author = "Steve Tuck"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 enableRobotsTXT = true
-Paginate = 12
 copyright = "Step Up Tutors"
 
-theme = "github.com/theNewDynamic/gohugo-theme-ananke"
+theme = "ananke-mod"
 
 [indexes]
   tag = "tags"
@@ -48,5 +47,12 @@ theme = "github.com/theNewDynamic/gohugo-theme-ananke"
 [params]
   featured_image = "/iStock_000006456892_Small.jpg"
   favicon = "/favicon.ico"
-  background_color_class = "bg-green"
+  background_color_class = "bg-mid-gray"
   recent_posts_number = 0
+
+  # tuck1s additions
+  email = "info@stepuptutors.co.uk"
+  phone = "02392 250238"
+
+# multiLineDescription = ["one", "two"] in page front matter
+

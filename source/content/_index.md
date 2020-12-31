@@ -1,9 +1,9 @@
 ---
 title: " "
-description: "Why Step Up?"
+multiLineDescription: ["English and Maths help for your child", "", "in Denmead, Hampshire", "" ]
 ---
 
-English and Maths help for your child in Denmead, Hampshire
+# Why Step Up?
 
 * Tailored to your child’s individual needs
 * Builds confidence, introducing new ideas at the right time for your child
@@ -15,12 +15,6 @@ Some children find it difficult to concentrate in a busy classroom, and can real
 Others want to develop and extend their gifts beyond what’s available in school. StepUp can provide for this too.
 
 ![](img/dailytelegraph-9-may-2013.png)
-
-## Get in touch
-|||
-|--|--|
-|email|info@stepuptutors.co.uk|
-|phone|02392 250238|
 
 ## About me
 
