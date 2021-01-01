@@ -1,10 +1,7 @@
 ---
 title: "Teaching Approaches"
-featured_image: ''
+featured_image: "fractions_purple_green.jpg"
 ---
-
-
-![](fractions_purple_green.jpg)
 
 Many children struggle with maths and reading. I use various practical resources to help them form mental pictures. These pictures are the building-blocks of understanding that will last your child a lifetime.
 
