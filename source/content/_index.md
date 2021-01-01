@@ -13,11 +13,9 @@ Step Up Tutors:
 * Provides one-to-one sessions with an experienced teacher
 * ... and it’s fun!
 
-Others want to develop and extend their gifts beyond what’s available in school. **Step Up** can provide for this too.
-
 ## COVID update: remote sessions via Zoom
 
-I have specialist educational software that works well over Zoom, to provide interactive remote learning that is both rigorous and fun. As well as providing child-centered benefits, this also reduces the amount of taxiing around for parents!
+I have specialist educational software that works well over Zoom, to provide interactive remote learning that is both rigorous and fun. As well as providing child-centred benefits, this reduces taxiing around for parents.
 
 ## About me
 
