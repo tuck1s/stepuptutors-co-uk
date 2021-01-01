@@ -3,7 +3,7 @@ title: "Key Stage 2 SATs"
 featured_image: ''
 ---
 
-![](img/pencils1-cropped.jpg)
+![](pencils1-cropped.jpg)
 
 For children preparing for Key Stage 2 SATs, I can provide the next Step Up to ensure they are comfortable and ready. I have access to past papers and can:
 

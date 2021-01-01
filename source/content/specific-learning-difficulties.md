@@ -3,7 +3,7 @@ title: "Specific Learning Difficulties"
 featured_image: ''
 ---
 
-![](img/box2.jpg)
+![](box2.jpg)
 
 I have a diploma in dyslexia and am experienced in teaching children with specific learning difficulties such as dyslexia, dyspraxia and dyscalculia. I teach through a multisensory approach, combining visual, auditory and kinaesthetic learning.
 
@@ -15,7 +15,7 @@ Overlearning is really important for children with specific learning difficultie
 
 ---
 
-![](img/rods.jpg)
+![](rods.jpg)
 
 For children struggling with maths, developing their knowledge of number is really important. If needed, I will assess your child’s strengths and weaknesses so that I can help them build a strong understanding of number. Children with dyscalculia may struggle with understanding and writing the teen numbers as the ten comes after the units in the name.
 
@@ -23,7 +23,7 @@ Working confidently with numbers from 0 to 20 is also important; I can assess an
 
 ---
 
-![](img/writing1.jpg)
+![](writing1.jpg)
 
 If a child is struggling in school, it is really important to boost their confidence. I do this in a number of ways. Firstly, by designing learning programmes that are carefully structured and tailored to their needs. Additionally, I make sure that there is a link between old and new information so that children have an anchor on which to secure their new learning. I also encourage children to stop me as soon as something is unclear so I can quickly help with the problem. Some children feel shy about saying something, but using coloured ‘traffic lights’ provides a novel and fun motivator. Finally and most importantly, I make sure that learning is FUN.
 

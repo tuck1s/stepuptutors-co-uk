@@ -14,7 +14,7 @@ Some children find it difficult to concentrate in a busy classroom, and can real
 
 Others want to develop and extend their gifts beyond what’s available in school. StepUp can provide for this too.
 
-![](img/dailytelegraph-9-may-2013.png)
+![](dailytelegraph-9-may-2013.png)
 
 ## About me
 
