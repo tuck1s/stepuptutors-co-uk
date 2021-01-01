@@ -1,6 +1,6 @@
 ---
 title: " "
-multiLineDescription: ["English and Maths help for your child", "", "in Denmead, Hampshire", "" ]
+multiLineDescription: ["English and Maths help for your child", "", "in Denmead, Hampshire", "", "", "", "", "", "", "", "", "" , "", ""]
 ---
 
 # Why Step Up?
