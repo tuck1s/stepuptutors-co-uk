@@ -44,6 +44,13 @@ theme = "ananke-mod"
     weight = 5
     url = "/ks2-sats"
 
+  [[menu.main]]
+    name = "Contact"
+    pre = "<i class='fa fa-home fa-fw'></i>"
+    weight = 6
+    url = "/contact"
+
+
 [params]
   featured_image = "/iStock_000006456892_Small.jpg"
   favicon = "/favicon.ico"
@@ -52,8 +59,8 @@ theme = "ananke-mod"
   cover_dimming_class = "bg-black-40"
 
   # tuck1s additions
-  email = "info@stepuptutors.co.uk"
-  phone = "02392 250238"
+  # email = "info@stepuptutors.co.uk"
+  # phone = "02392 250238"
 
 # multiLineDescription = ["one", "two"] in page front matter
 
